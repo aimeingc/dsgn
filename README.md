@@ -1,2 +1,0 @@
-# dsgn
-Otro más
